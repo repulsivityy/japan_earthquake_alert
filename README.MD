@@ -1,4 +1,5 @@
 # Japan Safety Alert System (JSAS)
+>disclaimer: entire project was vibe coded with anti-gravity gemini 3 pro, with some human intervention for security and logic verification. 
 
 ## Overview
 This project is an automated earthquake monitoring/alerting system designed for residents and travelers in Japan. It continuously polls the [P2P Quake API](https://www.p2pquake.net/json_api_v2/) for real-time seismic data and delivers targeted alerts via a Telegram Bot. It also provides a centralized web dashboard to visualize recent activity and official safety information.
