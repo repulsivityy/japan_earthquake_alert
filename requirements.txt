@@ -1,0 +1,8 @@
+google-cloud-firestore
+python-telegram-bot
+feedparser
+streamlit
+folium
+requests
+pandas
+functions-framework
