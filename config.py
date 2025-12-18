@@ -14,7 +14,7 @@ JAPAN_REGIONS = {
 
 # JMA Seismic Intensity Scale for reference in logic
 # 30 = Shindo 3, 40 = Shindo 4, 50 = Shindo 5-Lower, etc.
-MIN_LOCAL_SHINDO = 10
+MIN_LOCAL_SHINDO = 40
 MIN_GLOBAL_SHINDO = 50
 
 PREFECTURE_TRANSLATIONS = {
